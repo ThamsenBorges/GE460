@@ -1,0 +1,4 @@
+For my project I will be using the Level I am making for Level Design and adding gameplay to it. It will be an FPS style game with a grapple hook movement mechanic.
+It will have stages with progressing story and the prompt is while investigating new outbreaks, you get gun, and at the end of that, you get grappling gun, which causes nearby core
+to react violently and start expanding, causing grapple hookable stuff to happen, which is level 2, grappling away to escape
+level 3 is the endgame with the big gun that allows you to fight back to end it.
