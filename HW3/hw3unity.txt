@@ -1,5 +1,5 @@
-The rules of the game are that you and your enemy blue ship chasing you both have 2 hit points. Make sure it dies first to win. 
+The rules of the game are that you and your enemy blue ships chasing you both have 2 hit points. Make sure they die first to win. 
 I initally wanted it so you had to shoot the incoming rocks and your enemy but I could not figure out the mechanics of it and I think it was because the assets were not good enough.
-So I made it a sort of survive or die game. The goal is to lead the blue ship into the rocks to kill it without dying yourself. There were a lot of limitaions in the playground assets 
+So I made it a sort of survive or die game. The goal is to lead the blue ships into the rocks to kill them without dying yourself. There were a lot of limitaions in the playground assets 
 which made it harder to do what I wanted, but it is a game because there in an objective and you are in control. 
 Feeback from my friends were that it was very simple but could be a good level in a game of full of these kind scenarios with some things added.
