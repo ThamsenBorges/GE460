@@ -1,0 +1,3 @@
+ Premise: A dense downtown city street becomes corrupted, luring the character to the source. An explosive event forces them into a fast-paced flight, and then to regroup and reclaim the street.
+Game purpose: To give the player a latent/buildup phase, a flight section, and a cathartic fight section through enhanced movement mechanics (grapple hook, fast-paced/high-stakes enemies)
+Platform: PC
