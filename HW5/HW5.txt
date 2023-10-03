@@ -1,1 +1,1 @@
-PlaceHolder
+This is a never ending Zombie Survival Game. Your goal is to get the highest score before you die. You move with WASD and Shoot with SPACE + The Arrow Key direction you want. Pressing SPACE without a Arrow key Drops a mine. You have 3 hits before you lose. I edited the Shooting script to make directional shooting possible.
