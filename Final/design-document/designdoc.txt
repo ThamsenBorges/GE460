@@ -1,0 +1,51 @@
+I Intro
+ - The names of all group members are written, and which option has been selected is identified and communicated.
+II Game Design
+ - The game’s core mechanic(s) are written out clearly, using verbs.
+ - There is a diagram of the core gameplay loop, with no more than 5 stages to the loop.
+ - The player’s abilities and movement metrics are described.
+ - The role and function of other relevant game design elements, such as items, are communicated.
+ - If a ruleset has been adopted from an existing game, that title is mentioned.
+III Level Design Goals
+ - There are at least three goals identified for each level, for a total of 9 goals, that make contextual sense.
+ - The “when” and “where” for each level is described, as well as the unique character of each level.
+IV Camera
+ - A camera system has been chosen, and a rationale has been provided.
+V Gameplay Narrative
+ - Each level has been given a storyboard or a 1-2 paragraph gameplay narrative summary to describe the experience for players
+VI Aesthetics
+ - The visual, aural, and spatial mood of each level has been communicated with at least one image and audio sample.
+ - A 2-3 sentence description of how the player is supposed to feel has been written for each level.
+VII Spelling, Grammar, and Formatting
+ - The project proposal is relatively free of spelling and grammar errors. Headings have been used for each section.
+
+Report: \part{}, \chapter{}, \section{}, \subsection{}, \subsubsection{}, \paragraph{}, \subparagraph{}.
+
+1. Decide whether you would like to work alone or in a group.
+ Alone
+2. Decide whether you are going to create a playable prototype / whitebox or paper prototyping for your ludic sketch.
+ Whitebox
+3. Select or create a ruleset — build out your game design.
+ Pistol, damage on enemies, similar to halo
+ Grappling hook, air tension, similar to apex legends
+ Antibody gun or flamethrower, similar to team fortress 2
+4. Determine your level design goals for each of your three levels.
+ Level 1
+  Establish world
+  Familiarize player
+  Build tension
+ Level 2
+  Leverage tension and attention to up the ante
+  Immerse player in swinging/navigation mechanic
+  Build player's anticipation of next level (the weapon drop)
+ Level 3
+  Unleash player/enter "Frenzy" with powerful weapon
+  Get player back to boss
+  Transform expansive feeling to "enclosed" one
+5. Determine your camera type, gameplay narrative, and aesthetics.
+ First Person
+ A citizen on a long city street is the only one that can help an outbreak
+ Level 1, daylight bustling city aesthetic, slight corruption
+ Level 2, enclosing, navigating the large city, urgent and intense
+ Level 3, frenetic, dingy corruption and gloom within corrupted caverns
+6. Submit!
