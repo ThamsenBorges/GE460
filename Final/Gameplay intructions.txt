@@ -1,0 +1,1 @@
+The level triggers are very simple right now: The entire area in front of the big building is a trigger (walk in a straight line for a long time. (sorry)), then level 2 you get your grapple which is right click to use and the trigger is the floor near the final tendril, and then level 3's unfinished
